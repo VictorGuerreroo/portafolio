@@ -1,0 +1,10 @@
+.container{
+    display: flex;
+    background-image: url(/assets/image/imagen.png);
+    height: 100vh;
+    width:auto;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+}
