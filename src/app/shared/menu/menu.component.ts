@@ -12,8 +12,8 @@ export class MenuComponent implements OnInit {
     { ruta: '/inicio', texto: 'Inicio'},
     { ruta: '/sobremi', texto: 'Sobre mí'},
     { ruta: '/portafolio1', texto: 'Portafolio'},
-    { ruta: '/curriculum', texto: 'Curriculum'},
-    { ruta: '/contacto', texto: 'Contacto'}
+    //{ ruta: '/curriculum', texto: 'Curriculum'},
+//{ ruta: '/contacto', texto: 'Contacto'}
   ];
 
   constructor() { }
